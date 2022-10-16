@@ -5,6 +5,7 @@
 - 📫 How to reach me kanikasp113@gmail.com or kspoojar@ncsu.edu.
 
 Projects
+
 CSC 116: 
   - Distance Calculator: Calculates the horizontal distance and vertical distance.
   - WRBO: Calculates the price of rental homes based on specific dates.
